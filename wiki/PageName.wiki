@@ -1,0 +1,10 @@
+#about vlcj library
+
+= Introduction =
+
+Some notes about vlcj library
+
+
+= Details =
+
+http://code.google.com/p/vlcj/
