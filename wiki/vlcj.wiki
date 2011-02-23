@@ -1,4 +1,4 @@
-#summary about vlcj library
+#summary Some notes about vlcj library
 #labels Phase-Requirements,Libs
 
 = Introduction =
