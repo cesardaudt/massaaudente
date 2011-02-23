@@ -20,7 +20,10 @@ public class Album {
 	public String getName() {
 		return "";
 	}
-	public int getYear();
+	public int getYear() {
+		return 666;
+		//the number of the beast
+	};
 	//public Image getCover();
 	public int getNumberOfTracks();
 	public ArrayList<TrackIf> getTracks();
