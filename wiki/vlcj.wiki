@@ -1,0 +1,10 @@
+#summary about vlcj library
+#labels Phase-Requirements,Libs
+
+= Introduction =
+
+Some notes about vlcj library
+
+= Details =
+
+http://code.google.com/p/vlcj/
