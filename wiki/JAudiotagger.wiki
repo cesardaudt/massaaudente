@@ -1,0 +1,11 @@
+#summary Some notes about JAudiotagger library.
+#labels Phase-Implementation,Libs
+
+= Introduction =
+
+Useful links about JAudiotagger.
+
+
+= Details =
+
+http://www.jthink.net/jaudiotagger/index.jsp
