@@ -17,7 +17,9 @@ public class Album {
 	private boolean valid_number_of_discs = false;
 
 	//GETTERS
-	public String getName();
+	public String getName() {
+		return "";
+	}
 	public int getYear();
 	//public Image getCover();
 	public int getNumberOfTracks();
