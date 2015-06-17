@@ -1,0 +1,1 @@
+Implementation of Music Library and Edition for VLC player. Making VLC user interface easy and useful is our goal.
